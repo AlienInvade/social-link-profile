@@ -22,8 +22,8 @@ main {
 }
 
 .card {
-    width: 350px;
-    height: 575px;
+    width: 375px;
+    height: 590px;
     background-color: hsl(0, 0%, 12%);
     border-radius: 10px;
 }
@@ -41,6 +41,10 @@ h2, h5, p {
     text-align: center;
     margin-top: 10px;
     font-weight: 400;
+}
+
+p {
+    margin-top: 30px;
 }
 
 h2 {
@@ -62,7 +66,7 @@ h5 {
     align-items: center;
     margin: auto;
     margin-top: 20px;
-    width: 100%;
+    width: 90%;
     height: 45px;
     border-radius: 10px;
     background-color: hsl(0, 0%, 20%);

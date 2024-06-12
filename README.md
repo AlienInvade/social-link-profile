@@ -15,7 +15,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Screenshot
 
-![](./Screenshot%202024-06-12%20170647.png)
+![](./Screenshot%202024-06-12%20174807.png)
 
 
 ### Links
