@@ -15,18 +15,18 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Screenshot
 
-![](./Screenshot%202024-06-11%20170749.png)
+![](./Screenshot%202024-06-12%20170647.png)
 
 
 ### Links
 
-- Live Site URL: (https://alieninvade.github.io/blog-preview-card/)
+- Live Site URL: (https://alieninvade.github.io/social-link-profile/)
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
-
+- Flexbox
 
 ## Author
 
