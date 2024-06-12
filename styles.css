@@ -81,11 +81,17 @@ li:hover {
 }
 
 
-
-
 footer {
     position: absolute;
     top: 100%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
+
+
+@media (min-width: 319px) and (max-width: 480px) {
+    .card {
+        width: 347px;
+        height: 575px;
+    }
+  }
